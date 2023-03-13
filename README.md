@@ -6,7 +6,7 @@ HTML e CSS.
 
 Como executar:
 Clone este repositório.
-Abra o arquivo index.html em um navegador web.
+Abra o arquivo index.html em um navegador web, ou acesse https://jpmarino.github.io/alura-plus-portfolio/
 
 Estrutura do projeto:
 index.html: página principal do website.
